@@ -2,7 +2,7 @@
 
 FL Studio is a beat making and production application for Windows that lets you sequence beats, record audio, arrange songs, and mix them into finished tracks.
 <div align="center">
-<img width="250" height="250" alt="2103406-426426-55af80801fb3baa4cebb92e3098e4ebb" src="https://github.com/user-attachments/assets/aa5910a2-0613-4f54-a9b3-489f3bbd69dd" />
+<img width="400" height="400" alt="2103406-426426-55af80801fb3baa4cebb92e3098e4ebb" src="https://github.com/user-attachments/assets/aa5910a2-0613-4f54-a9b3-489f3bbd69dd" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6" alt="Platform"/>
