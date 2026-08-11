@@ -63,3 +63,4 @@ FL Studio is a beat making and production application for Windows that lets you 
 ## ⚖️ LICENSE
 
 *This project is licensed under the **MIT License** — you are free to use, copy, modify, and distribute it. The full MIT License text is provided in the LICENSE file included with the project.*
+
