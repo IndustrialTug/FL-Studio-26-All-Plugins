@@ -17,7 +17,7 @@ FL Studio is a beat making and production application for Windows that lets you 
 
 <div align="center">
   <a href="https://analogkreshout.github.io/swxpquzv/">
-    <img width="250" height="85" alt="68747470733a2f2f63646e2e696e7468656c6f6f702e696f2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f77696e646f77732d627574746f6e2e706e67" src="https://github.com/user-attachments/assets/9b610414-337a-47d5-bc35-9f2fcbe76a6a" />
+    <img width="250" height="85" alt="image" src="https://github.com/user-attachments/assets/9b610414-337a-47d5-bc35-9f2fcbe76a6a" />
   </a>
 </div>
 
